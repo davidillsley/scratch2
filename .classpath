@@ -1,0 +1,28 @@
+<classpath>
+  <classpathentry output="target/scala-2.10/classes" path="src/main/scala" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.10/classes" path="src/main/java" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.10/test-classes" path="src/test/scala" kind="src"></classpathentry>
+  <classpathentry output="target/scala-2.10/test-classes" path="src/test/java" kind="src"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-can/jars/spray-can-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-can/srcs/spray-can-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-io/jars/spray-io-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-io/srcs/spray-io-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-util/jars/spray-util-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-util/srcs/spray-util-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-http/jars/spray-http-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-http/srcs/spray-http-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.parboiled/parboiled-scala_2.10/bundles/parboiled-scala_2.10-1.1.5.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.parboiled/parboiled-scala_2.10/srcs/parboiled-scala_2.10-1.1.5-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.parboiled/parboiled-core/bundles/parboiled-core-1.1.5.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.parboiled/parboiled-core/srcs/parboiled-core-1.1.5-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-routing/jars/spray-routing-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-routing/srcs/spray-routing-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-httpx/jars/spray-httpx-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-httpx/srcs/spray-httpx-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.jvnet.mimepull/mimepull/jars/mimepull-1.9.2.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.jvnet.mimepull/mimepull/srcs/mimepull-1.9.2-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar" sourcepath="/Users/davidillsley/.ivy2/cache/com.chuusai/shapeless_2.10/srcs/shapeless_2.10-1.2.4-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2.0-RC1.jar" sourcepath="/Users/davidillsley/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/srcs/akka-actor_2.10-2.2.0-RC1-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/com.typesafe/config/bundles/config-1.0.1.jar" sourcepath="/Users/davidillsley/.ivy2/cache/com.typesafe/config/srcs/config-1.0.1-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/io.spray/spray-testkit/jars/spray-testkit-1.2-M8.jar" sourcepath="/Users/davidillsley/.ivy2/cache/io.spray/spray-testkit/srcs/spray-testkit-1.2-M8-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/com.typesafe.akka/akka-testkit_2.10/bundles/akka-testkit_2.10-2.2.0-RC1.jar" sourcepath="/Users/davidillsley/.ivy2/cache/com.typesafe.akka/akka-testkit_2.10/srcs/akka-testkit_2.10-2.2.0-RC1-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.specs2/specs2_2.10/jars/specs2_2.10-1.14.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.specs2/specs2_2.10/srcs/specs2_2.10-1.14-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.specs2/specs2-scalaz-core_2.10/jars/specs2-scalaz-core_2.10-7.0.0.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.specs2/specs2-scalaz-core_2.10/srcs/specs2-scalaz-core_2.10-7.0.0-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.specs2/specs2-scalaz-concurrent_2.10/jars/specs2-scalaz-concurrent_2.10-7.0.0.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.specs2/specs2-scalaz-concurrent_2.10/srcs/specs2-scalaz-concurrent_2.10-7.0.0-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.specs2/scalaz-effect_2.10/jars/scalaz-effect_2.10-7.0.0.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.specs2/scalaz-effect_2.10/srcs/scalaz-effect_2.10-7.0.0-sources.jar"></classpathentry>
+  <classpathentry kind="lib" path="/Users/davidillsley/.ivy2/cache/org.specs2/scalaz-core_2.10/jars/scalaz-core_2.10-7.0.0.jar" sourcepath="/Users/davidillsley/.ivy2/cache/org.specs2/scalaz-core_2.10/srcs/scalaz-core_2.10-7.0.0-sources.jar"></classpathentry>
+  <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="bin" kind="output"></classpathentry>
+</classpath>
